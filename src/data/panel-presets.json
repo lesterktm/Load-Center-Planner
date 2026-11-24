@@ -1,0 +1,102 @@
+[
+  {
+    "id": "mb100-20",
+    "name": "100 A main breaker · 20 spaces / 20 circuits",
+    "busAmps": 100,
+    "mainType": "main-breaker",
+    "mainAmps": 100,
+    "spaces": 20,
+    "maxCircuits": 20,
+    "tandemSpaces": "none"
+  },
+  {
+    "id": "mb100-20-40",
+    "name": "100 A main breaker · 20 spaces / 40 circuits",
+    "busAmps": 100,
+    "mainType": "main-breaker",
+    "mainAmps": 100,
+    "spaces": 20,
+    "maxCircuits": 40,
+    "tandemSpaces": "all"
+  },
+  {
+    "id": "mb125-24",
+    "name": "125 A main breaker · 24 spaces / 24 circuits",
+    "busAmps": 125,
+    "mainType": "main-breaker",
+    "mainAmps": 125,
+    "spaces": 24,
+    "maxCircuits": 24,
+    "tandemSpaces": "none"
+  },
+  {
+    "id": "mb150-30",
+    "name": "150 A main breaker · 30 spaces / 30 circuits",
+    "busAmps": 150,
+    "mainType": "main-breaker",
+    "mainAmps": 150,
+    "spaces": 30,
+    "maxCircuits": 30,
+    "tandemSpaces": "none"
+  },
+  {
+    "id": "mb200-30-60",
+    "name": "200 A main breaker · 30 spaces / 60 circuits",
+    "busAmps": 200,
+    "mainType": "main-breaker",
+    "mainAmps": 200,
+    "spaces": 30,
+    "maxCircuits": 60,
+    "tandemSpaces": "all"
+  },
+  {
+    "id": "mb200-40",
+    "name": "200 A main breaker · 40 spaces / 40 circuits",
+    "busAmps": 200,
+    "mainType": "main-breaker",
+    "mainAmps": 200,
+    "spaces": 40,
+    "maxCircuits": 40,
+    "tandemSpaces": "none"
+  },
+  {
+    "id": "mb200-42",
+    "name": "200 A main breaker · 42 spaces / 42 circuits",
+    "busAmps": 200,
+    "mainType": "main-breaker",
+    "mainAmps": 200,
+    "spaces": 42,
+    "maxCircuits": 42,
+    "tandemSpaces": "none"
+  },
+  {
+    "id": "mb225-42",
+    "name": "225 A main breaker · 42 spaces / 42 circuits",
+    "busAmps": 225,
+    "mainType": "main-breaker",
+    "mainAmps": 225,
+    "spaces": 42,
+    "maxCircuits": 42,
+    "tandemSpaces": "none"
+  },
+  {
+    "id": "ml100-12-24",
+    "name": "100 A main lug · 12 spaces / 24 circuits (subpanel)",
+    "busAmps": 100,
+    "mainType": "main-lug",
+    "mainAmps": null,
+    "spaces": 12,
+    "maxCircuits": 24,
+    "tandemSpaces": "all"
+  },
+  {
+    "id": "ml125-24",
+    "name": "125 A main lug · 24 spaces / 24 circuits (subpanel)",
+    "busAmps": 125,
+    "mainType": "main-lug",
+    "mainAmps": null,
+    "spaces": 24,
+    "maxCircuits": 24,
+    "tandemSpaces": "none"
+  }
+]
