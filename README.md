@@ -135,4 +135,6 @@ Done: panel layout and checks, subpanels, generator and battery inverter interlo
 
 ## License
 
-Not yet chosen. Pick one (MIT is common for tools like this) before publishing.
+[MIT](LICENSE). The software comes with no warranty; see the planning-aid note at the top.
+
+NEC and NFPA 70 are trademarks of the National Fire Protection Association. This project is not affiliated with the NFPA or with any equipment manufacturer named here.

@@ -2,6 +2,7 @@
   "name": "load-center-planner",
   "private": true,
   "version": "0.1.0",
+  "license": "MIT",
   "description": "Plan US residential electrical load centers: breaker layout, phase balance, NEC checks, printable directory, schedule and materials list.",
   "type": "module",
   "scripts": {
